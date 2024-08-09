@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Welcome to MoZiwei tutor research group!</title>
+  <title>Welcome to Urban Airflow Laboratory(UAL)!</title>
   
-  <subtitle>SUN YAT-SEN UNIVERSITY  SCHOOL OF ATMOSPHERIC SCIENCES</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://moziwei-tutor-research-group.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://moziwei-tutor-research-group.github.io/"/>
   <updated>2024-08-03T13:15:05.538Z</updated>
-  <id>http://example.com/</id>
+  <id>https://moziwei-tutor-research-group.github.io/</id>
   
   <author>
-    <name>MoZiwei tutor research group</name>
+    <name>Mo Z.W. tutor research group</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/08/03/hello-world/"/>
-    <id>http://example.com/2024/08/03/hello-world/</id>
+    <link href="https://moziwei-tutor-research-group.github.io/2024/08/03/hello-world/"/>
+    <id>https://moziwei-tutor-research-group.github.io/2024/08/03/hello-world/</id>
     <published>2024-08-03T13:15:05.538Z</published>
     <updated>2024-08-03T13:15:05.538Z</updated>
     
