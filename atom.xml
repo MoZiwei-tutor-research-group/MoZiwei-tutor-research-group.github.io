@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Welcome to Urban Airflow Laboratory(UAL)!</title>
   
-  
+  <subtitle>中山大学 大气科学院</subtitle>
   <link href="https://moziwei-tutor-research-group.github.io/atom.xml" rel="self"/>
   
   <link href="https://moziwei-tutor-research-group.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://moziwei-tutor-research-group.github.io/</id>
   
   <author>
-    <name>Mo Z.W. tutor research group</name>
+    <name>MoZiwei tutor research group</name>
     
   </author>
   
