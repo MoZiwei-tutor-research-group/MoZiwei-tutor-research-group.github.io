@@ -1,5 +1,6 @@
-https://moziwei-tutor-research-group.github.io/tags/index.html
-https://moziwei-tutor-research-group.github.io/link/index.html
-https://moziwei-tutor-research-group.github.io/categories/index.html
+https://moziwei-tutor-research-group.github.io/Useful%20link/index.html
+https://moziwei-tutor-research-group.github.io/Teaching/index.html
+https://moziwei-tutor-research-group.github.io/Publications/index.html
+https://moziwei-tutor-research-group.github.io/Group%20member/index.html
 https://moziwei-tutor-research-group.github.io/2024/08/03/hello-world/
 https://moziwei-tutor-research-group.github.io/
